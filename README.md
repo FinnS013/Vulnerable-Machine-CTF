@@ -1,5 +1,4 @@
 # Vulnerable-Machine-CTF
-Vulnerable Machine CTF 
 
 # Projectbeschrijving.
 Elke groep studenten maakt zijn eigen kwetsbare virtuele machine, geïnspireerd op de voorbeelden die te vinden zijn op www.vulnhub.com (of andere sites online). Deze vm kan in toekomstige lessen worden gebruikt als lesmateriaal.
